@@ -1,5 +1,5 @@
-# SpERT: Span-based Entity and Relation Transformer
-PyTorch code for SpERT: "Span-based Entity and Relation Transformer". For a description of the model and experiments, see our paper: https://arxiv.org/abs/1909.07755 (published at ECAI 2020).
+# ScdNER: Span-Based Consistency-Aware Document-Level Named Entity Recognition
+PyTorch code for ScdNER: "ScdNER: Span-Based Consistency-Aware Document-Level Named Entity Recognition". For a description of the model and experiments, see our paper: [[https://par.nsf.gov/servlets/purl/10515191](https://par.nsf.gov/servlets/purl/10515191)](https://par.nsf.gov/servlets/purl/10515191) (published at EMNLP 2023).
 
 ![alt text](http://deepca.cs.hs-rm.de/img/deepca/spert.png)
 
